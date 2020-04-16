@@ -7,3 +7,11 @@ def snake_it_up(string)
     string
   end
 end
+
+def snake_it_up(string)
+  if
+    string[0] == "s"
+    string = "ssssssssss#{string}"
+    end
+  end
+end
